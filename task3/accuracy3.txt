@@ -1,2 +1,2 @@
-Test Loss: nan
-Test Accuracy: 0.6910
+Test Loss: 0.0303
+Test Accuracy: 0.9916
